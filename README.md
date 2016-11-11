@@ -1,4 +1,4 @@
-# Construcción Cinemático Lineal
+#  Construcción Cinemático Lineal
 
 Proyecto desarrollado dentro de la I Convocatoria [CeSAr-Etopia Labs] (http://cesar-etopia.bifi.es/)
 
